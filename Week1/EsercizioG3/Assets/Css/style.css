@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    padding-left: 10px;
+}
+
+#logo img {
+    margin: auto !important;
+    display: block;
+}
+
+#sottologo {
+    background-color: #fefbf1;
+    border-top: 3px solid #ffd997;
+    color: #004d4d;
+    margin-top: 10px;
+    padding: 0.1rem;
+    font-size: 16px;
+    text-align: center;
+}
+ul{
+display: inline-block;
+
+}
