@@ -1,0 +1,92 @@
+body {
+    text-align: center;
+    margin: 0;
+    color: black;
+    font-size: 1.2rem;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+#logo {
+    background-color: black;
+    text-align: center;
+
+
+}
+
+#primafoto {
+    font-weight: 500;
+    background-image: url(../esercizioG3/assets/img/banner.jpg);
+    
+
+}
+.bottone{
+    background-color: #ec4b00; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 2rem;
+    color: deepskyblue;
+    font-size: 45px;
+
+}
+
+h2 {
+    color: deepskyblue;
+
+}
+
+#Imgtonda {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+
+}
+
+#bianco {
+    color: white;
+    background-color: #e22d0e;
+    font-size: 30px;
+    padding: 5px;
+}
+
+.foto1 {
+    width: 400px;
+    border: 1px solid rgb(0, 0, 0);
+    padding-bottom: 90px;
+    margin: 25px;
+}
+
+h3 {
+    color: deepskyblue;
+
+}
+
+
+#finepagina{
+    color: white;
+}
+
+
+#footer {
+    background-color: #25a2c3;
+    
+}
+
+hr {
+    width: 50%;
+}
+
+.colore {
+    color: white;
+}
